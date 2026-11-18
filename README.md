@@ -6,7 +6,7 @@
 3. **User Story arbeiten**: Mach dir zuerst (gerne mit Hilfe des Agenten) einen Plan, wie du die User Story technisch ausarbeitest. Lasse dir gerne einzelne Teile/Optionen erklären, gegenüberstellen oder recherchiere sie selbst.
 4. **Die Regeln für Agenten**: Skills werden vom Agenten geladen (caveman, ponytail, ggf. groundcheck), Shell-Befehle über `rtk` ausführen, jede Annahme und jede Code-Stelle gegen echte Daten im Internet prüfen (offizielle Doku, Demo-Projekte, installierte Paketquellen, laufender Code) — und nichts behaupten, ohne es ausprobiert zu haben.
 5. **App ausführen (erste Woche: nur Swift)**: Agentic Coding machen wir in **VSCode** — die App führen wir in **Xcode** aus (Projekt öffnen, Run). Später steigen wir eventuell auf Python um; dann passen wir dieses README an.
-6. **Commits & Pull Request**: Commit-Messages beginnen mit der Story-ID (`US-12: …`). Branch pushen (`git push -u origin <branch>`) und Pull Request gegen `main` öffnen. Der PR bleibt offen, bis **Philip ihn approved und merged** — niemals selbst mergen.
+6. **Commits & Pull Request**: Commit-Messages beginnen mit der Story-ID (`US-12: …`). Branch pushen (`git push -u origin <branch>`). Sobald alle requirements erfüllt sind, und du zufrieden mit dem Ergebnis bist, lass einen pull request öffnen. Pull requests bleiben offen, bis **Team ihn approved und merged** — niemals alleine mergen.
 7. **Fertig**: Sobald der PR durch ist, ist die Story erledigt. Sonst muss nichts weiter aktualisiert werden.
 
 ## Programmflow Elefant (Routinen)
