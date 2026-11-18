@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Agent session timestamp (see AGENTS.md, section 4)
+lastWorkedTimestamp.txt
